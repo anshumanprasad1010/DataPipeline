@@ -1,4 +1,4 @@
-Simple Data Pipeline design to process data from various sources.
+Simple Pipeline designed to process data from various sources
 
 # Requirements
 
