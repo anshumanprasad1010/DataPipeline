@@ -8,8 +8,8 @@ pip install pandas sqlalchemy psycopg2
 
 
 # Sample Data
-
-The scripts are designed to run on the sample files and data shown as below:
+ 
+The scripts present in Scripts.ipynb are designed to run on the sample files and data shown as below:
 
 Flat Files: 'sales-data.csv'
 Database: 'products.csv' , 'transactions.csv'
